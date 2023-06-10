@@ -1,0 +1,6 @@
+openai==0.27.7
+langchain==0.0.182
+deeplake==3.5.4
+tiktoken==0.4.0
+python-dotenv==1.0.0
+requests==2.31.0
